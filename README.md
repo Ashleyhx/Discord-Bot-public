@@ -1,2 +1,3 @@
 # Discord-Bot-public
-README for dc-bot
+Use JavaScript to create a Discord Bot that can play music from given URL and given summary notifications in Discord
+for Items satisfies required conditions in Notion Database. 
